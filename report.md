@@ -4,7 +4,7 @@ Graph: **Interactions of Top-300 Users and Their neighbors in Reddit on March 15
 
 ![graph](output.png)
 
-I use the Reddit comments and submissions on March 15th, 2020 to build the interaction graph. Only Top 300 users with highest degree and their neighbors are shown. Only top 50 users' name are shown.     
+I use the Reddit comments and submissions on March 15th, 2020 to build the interaction graph. Only the top 300 users with the highest degree and their neighbors are shown. Only the top 50 users' names are displayed.     
 - **Nodes:** Nodes represent users
 - **Edges:** two nodes are connected when one user creates a comment to another user's submissions, or creates a comment to one user's comment.     
 - **Color of Edge:** The colors of the edges indicate the subreddit to which the comments belong. 
