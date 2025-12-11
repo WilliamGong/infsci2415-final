@@ -24,3 +24,6 @@ In the visualization stage, First, I identified the top-300 most active users on
 ## Significance of the Presented Figure
 
 This figure provides a clear picture of how online discussions during a major global event are structured across Reddit. By mapping interactions among the most active users and their communities, the visualization reveals how information spreads, how cross-subreddit communication occurs, and which users act as central hubs connecting multiple conversation spheres. Understanding these structural patterns is crucial for studying information diffusion, moderation dynamics, misinformation pathways, and the emergence of community polarization during crisis periods such as the COVID-19 pandemic.
+
+## Reference
+Code: [Github](https://github.com/WilliamGong/infsci2415-final.git)
